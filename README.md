@@ -29,3 +29,18 @@ This project demonstrates front-end development skills, clean design practices, 
 ### Clone the repository
 ```bash
 git clone https://github.com/dilkashkhan786/bellavista-restaurant-italian.git
+
+
+## 📸 Screenshots
+
+### Home Page
+![Home Page](images/screenshot-bellavista-home.png)
+
+### Menu Section
+![Menu Section](images/screenshot-bellavista-menu.png)
+
+### About Us
+![About Us](images/screenshot-bellavista-about.png)
+
+### Contact Page
+![Contact Page](images/screenshot-bellavista-contact.png)
