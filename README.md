@@ -31,6 +31,12 @@ This project demonstrates front-end development skills, clean design practices, 
 git clone https://github.com/dilkashkhan786/bellavista-restaurant-italian.git
 
 
+🌐 Live Demo
+View the live project here:
+https://bellavista-restaurant-italian.netlify.app/
+
+
+
 ## 📸 Screenshots
 
 ### Home Page
